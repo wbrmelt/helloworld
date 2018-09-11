@@ -35,24 +35,3 @@ pulvinar hendrerit non eu eros. Donec ac leo eu velit aliquam pulvinar in a
 felis. Donec eu dolor luctus, maximus mi et, tincidunt erat. Nullam vel leo eu
 nisi porttitor pellentesque sit amet consectetur ipsum.
 
-Pellentesque pellentesque risus ut arcu rutrum, eu varius ipsum pulvinar. In a
-sollicitudin leo. Cras eu dictum lectus. Mauris placerat ante dui, vel
-malesuada diam commodo in. Vestibulum nec lacinia turpis, blandit consequat
-nisl. In venenatis nisi ac pulvinar efficitur. Cras consequat vestibulum arcu
-at venenatis. Aenean id nulla porta, rutrum ligula eleifend, tempor lectus. Nam
-aliquet sed dolor nec suscipit. Proin laoreet posuere pellentesque. Proin
-iaculis scelerisque purus, egestas ultrices ante lacinia at. Maecenas eget
-fringilla ipsum.
-
-Nulla sit amet tincidunt diam, nec dictum sem. Fusce at nibh erat. Nulla
-facilisi. Integer eget efficitur diam. Proin sed ultricies erat. Donec
-tincidunt nisi magna, vitae molestie lectus tincidunt quis. Pellentesque non
-euismod libero, a luctus dui. Class aptent taciti sociosqu ad litora torquent
-per conubia nostra, per inceptos himenaeos. Nam mollis mauris imperdiet lacus
-aliquet rutrum. Praesent finibus purus sed congue fringilla. Integer consequat
-libero sed sagittis laoreet. Pellentesque tortor ligula, pretium quis augue et,
-aliquet placerat nulla. Pellentesque ut risus vel ipsum ornare posuere nec a
-lorem.
-
-
-Still testing.

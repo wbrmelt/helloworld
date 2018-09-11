@@ -58,3 +58,6 @@ What happens when you remove git user.name
 
 
 and again
+
+
+OK, removed user.name and input the email associated with this account.

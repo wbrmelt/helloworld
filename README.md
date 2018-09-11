@@ -23,15 +23,6 @@ litora torquent per conubia nostra, per inceptos himenaeos. Vivamus ullamcorper
 tellus eu massa porta, eu sodales purus porta. Fusce vel tortor nec dui congue
 auctor. Cras neque quam, vestibulum eget sodales eget, varius vitae nisl.
 
-Curabitur varius lectus vel quam consequat euismod. Integer euismod vel neque
-non dapibus. Ut vitae lobortis turpis. Integer tellus turpis, rutrum sed
-molestie id, eleifend sit amet enim. Cras ornare arcu ac erat pellentesque
-feugiat. Vestibulum bibendum orci gravida justo iaculis fringilla. Morbi
-vulputate nisl leo, id ultricies quam vestibulum quis. Pellentesque pharetra
-orci et massa interdum tempor. Suspendisse iaculis placerat ex, et malesuada
-lorem auctor ac. Aliquam ut dignissim velit. Aenean vestibulum est nec augue
-vehicula, vel fringilla augue mattis.
-
 Pellentesque dignissim est purus, vitae sodales mi sodales sed. Nulla a massa
 vel tortor suscipit dictum sed ac lacus. Quisque quam arcu, iaculis id
 condimentum eu, fringilla maximus dui. Maecenas egestas vehicula mi.

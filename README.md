@@ -61,3 +61,6 @@ and again
 
 
 OK, removed user.name and input the email associated with this account.
+
+
+Now with a different name.

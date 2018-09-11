@@ -52,3 +52,6 @@ Lets go.
 
 
 Virtual machine test.
+
+
+What happens when you remove git user.name
